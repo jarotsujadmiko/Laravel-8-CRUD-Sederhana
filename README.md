@@ -71,3 +71,4 @@ Untuk menjalankan projek ini ada hal yang perlu di perhatikan
 4. Membuat database sesuai nama database di konfigurasi file .env
 5. melakukan migrasi database dengan cara => php artisan migrate
 6. halooo
+7. hai
