@@ -70,3 +70,4 @@ Untuk menjalankan projek ini ada hal yang perlu di perhatikan
 3. Membuat generate key dengan cara => php artisan key:generate
 4. Membuat database sesuai nama database di konfigurasi file .env
 5. melakukan migrasi database dengan cara => php artisan migrate
+hslooooo
