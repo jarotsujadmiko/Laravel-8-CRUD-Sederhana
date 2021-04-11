@@ -66,8 +66,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 Untuk menjalankan projek ini ada hal yang perlu di perhatikan
 1. Clone projek menggunakan git dengan cara => git clone https.alamat_clone_projeknya
-3. Install package" yang dibutuhkan laravel dengan cara => composer install
-5. Membuat generate key dengan cara => php artisan key:generate
-7. Membuat database sesuai nama database di konfigurasi file .env
-8. melakukan migrasi database dengan cara => php artisan migrate
-9.halooo
+2. Install package" yang dibutuhkan laravel dengan cara => composer install
+3. Membuat generate key dengan cara => php artisan key:generate
+4. Membuat database sesuai nama database di konfigurasi file .env
+5. melakukan migrasi database dengan cara => php artisan migrate
+6. halooo
