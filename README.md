@@ -72,3 +72,4 @@ Untuk menjalankan projek ini ada hal yang perlu di perhatikan
 5. melakukan migrasi database dengan cara => php artisan migrate
 6. halooo
 7. hai
+8. heloo
